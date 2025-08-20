@@ -96,9 +96,8 @@ Supports:
 
 ## 📬 Contact  
 
-👩‍💻 Author: [Your Name]  
-📧 Email: your.email@example.com  
-🌐 LinkedIn / GitHub: [link]  
+👩‍💻 Author: Sonja Divac 
+📧 Email: sonja.divac@yahoo.com  
 
 ---
 
